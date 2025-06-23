@@ -31,9 +31,9 @@ Steps for Training and Evaluation:
 2. create DataFrames: `preprocess_data.py`
 3. training: `train.py`
 4. evaluation: `evaluate.py`
-5. final predictions: `create_sample.py`
+5. create final dataset for testing: `create_sample.py`
 
-Run the predict.py on the challenge dataset created by your classifier by the final preictions:
+Run the predict.py on the challenge dataset created by your YOLO v11 classifier by the final predictions:
 
 
 Make sure to extract the data_reid folder inside the data folder
